@@ -18,7 +18,7 @@ Chapelle Rochefort, caisse :
 | 709 | 1/2 feuille
 | 719 | 1 feuille
 | 781 | 1 feuille + 3/4
-| 353 | ($\simeq$ 054 Rosco) 1 rouleau
+| 353 |  1 rouleau
 | 113 | 1/2 feuille
 | 242 | 1/2 feuille
 | 341 | 1/3 feuille
@@ -26,4 +26,5 @@ Chapelle Rochefort, caisse :
 | 197 | 1 feuille
 | 238 | 1 feuille
 | 169 | 2 feuilles + 1/3
+| inconnue (~748, ~127) | 1 feuille 
  
