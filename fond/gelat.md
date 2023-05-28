@@ -37,4 +37,6 @@ Contient :
 | 725 | 1 feuille
 | 219 | 1 feuille
 | 721 | 1 feuille + 1/3
+| 053 (Rosco) | 1/2 feuille
+| 730 | 1 feuille + 3/4
  
