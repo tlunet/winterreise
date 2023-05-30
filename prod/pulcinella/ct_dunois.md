@@ -4,21 +4,19 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 
 ## Mise
 
-- Bancs au fond (sans taps)
-- Palais roulé, accroché et plafonné
-- Lustres chargés repère bas, avec spoon
-- Toile fontaine roulée à jardin
-- Tapis (x7) roulés en coulisse
-- Théâtre de guignol + forêt à l'arrière de l'estrade
+- Bancs au fond, [voir photo](./bancs_mise_dunois.jpg)
+- Palais roulé, accroché et plafonné, :warning: **perches indépendantes, pas attachées entre elles !**
+- Lustres chargés repère bas, avec spun
+- Toile fontaine roulée en coulisse à jardin
+- Tapis (x7) roulés en coulisse à jardin
+- Théâtre de guignol derrière l'estrade
 - Grand bateau en coulisse
-- Petit théâtre enroulé dans un taps en coulisse à jardin
 
 ## Prologue + 1er tableau
 
-- ??
 - _Monologue de Gabriel + pantomime_
 - _Danses d'ouverture_
-- _Dialogue Arlequin + Colomine_
+- _Dialogue Arlequin + Colombine_
 - _Scène Pulcinella_
 - _Pas de quatre_
 - _Monologue Lélio ("Je suis poête ...") + musique_
@@ -92,7 +90,7 @@ Entrée des garçons porte fond jardin (Luana referme après)
   - Roulage 4 petits tapis (Andrea, Manon, Raphael, Olivia)
 - **Phase 2 :**
   - Roulage gros tapis (Gloria, Théo, Erwan)
-  - Décrochage élingues rouleaux (Luana + Gabriel)
+  - Décallage perche palais au centre (Luana + Gabriel)
 - **Phase 3 :**
   - Déroulé palais (Luana + Gabriel)
   - Charge lustre avant au repère bas (Théo, au premier lé déroulé)
@@ -115,6 +113,9 @@ Entrée des garçons porte fond jardin (Luana referme après)
     - appui lustre jardin repère haut (Luana)
     - appui lustre cour repère haut (Théo)
     - entrée petit théâtre (Josselin)
+  - **Phase 2** : une fois les lustres appuyés
+    - déplacement banc cours au centre (Théo + Raphael)
+    - déplacement banc jardin au centre (Erwan + Gloria)
 - _Funérailles Arlequin_
   - **Déplacement petit théâtre à cour (Jocelin)**
   - **Appui des lustres à jardin (Luana) et à cour (Raphael)**
