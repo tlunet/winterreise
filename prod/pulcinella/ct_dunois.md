@@ -29,12 +29,15 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 ## Intermède + changement tableau (-> Acte 2)
 
 - **Phase 1 (fin de la danse) :**
-    - entrée bateaux à jardin : petit à jar (Noémie), grand à cours, collé au fond (Luana)  
+  - avancée banc cour (Raphael+ Théo, qui sortent ensuite à cour)
+  - entrée grand bateau depuis jardin à cour, [voir photo](./bateau_dunois.jpg) (Luana)
+  - sortie banc jardin en coulisse (Gloria + Josselin)
+  - entrée petit bateau jardin (Noémie)
 - _Chant Lelio (commencé pendant la phase 1)_
 - **Phase 2 (fin chant) :**
-    - déplacement banc à l'avant : banc jardin (Raphael+ Gloria), banc cour (Josselin + Théo)
-    - placement toile et déroulé avec la lumière (Marius + Erwan)
-    - plafonnement des lustres (Raphael + Théo à cour, Luana à jardin)
+  - placement toile et déroulé avec la lumière (Marius + Erwan)
+  - plafonnement des lustres, **lentement** (Raphael + Théo à cour, Luana à jardin)
+  - récupération du tube de la toile (Raphael), mise en galerie à cour
 
 ## 2ème tableau
 
@@ -49,7 +52,8 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 - _Chant "Sento Dire"_
 - _Chant "Dispute"_
 - _Bascule noir_
-- _Monologue Pierrot_
+  - ?? Enroulage de la toile fontaine (Raphael+Théo) ??
+  - Tout le monde sort, sauf Olivie/Erwan
 - _Tango Olivia_
 
 ## Entracte 
