@@ -36,7 +36,9 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 - **Phase 2 (fin chant) :**
     - déplacement banc à l'avant : banc jardin (Raphael+ Gloria), banc cour (Josselin + Théo)
     - placement toile et déroulé avec la lumière (Marius + Erwan)
-    - plafonnement des lustres (Raphael, Théo, Luana)
+    - plafonnement des lustres 
+      - Raphael + Théo à cour
+      - Luana à jardin
 
 ## 2ème tableau
 
@@ -87,9 +89,9 @@ Entrée des garçons porte fond jardin (Luana referme après)
 ## Précipité Palais (après la tirade de Matamore)
 
 - **Phase 1 : Claquement des mains Jocelin**
+  - Charge palais (Luana à cour + Gabriel a jardin)
   - Roulage 4 petits tapis (Andrea, Manon, Raphael, Olivia)
 - **Phase 2 :**
-  - Charge palais (Luana + Gabriel) (éventuellement + tôt)
   - Roulage gros tapis (Gloria, Théo, Erwan)
   - Décrochage élingues rouleaux (Luana + Gabriel)
 - **Phase 3 :**
@@ -98,7 +100,7 @@ Entrée des garçons porte fond jardin (Luana referme après)
   - Charge lustre jardin au repère bas (Gloria, au troisème lé déroulé)
   - Charge lustre cour au repère bas (Théo, au dernier lé déroulé)
 - **Phase 4 :**
-  - Luana récupère les élingues rouleau + décroche les 3 élingues
+  - Luana récupère les élingues rouleau + **décroche les 3 élingues**
 
 ## 4ème tableau
 
@@ -106,13 +108,18 @@ Entrée des garçons porte fond jardin (Luana referme après)
 - _Scène Florinda, Rosallinde, Brighella_
 - _Chant Florinda_
 - _Annonce pendaison Arlequin_
-  - **"Ici, sur les marches du palais ducal, ..." => appui palais (Luana à jardin, Théo à cour) + appui lustre face repère (très) haut (Gloria)**
+- Gros changement palais :
+  - **Phase 1** : "Ici, sur les marches du palais ducal, ..."
+    - appui palais (Luana à jardin, Théo à cour)
+    - appui lustre face repère (très) haut (Gloria)
+  - **Phase 2** : une fois le palais appuyé 
+    - appui lustre jardin repère haut (Luana)
+    - appui lustre cour repère haut (Théo)
+    - entrée petit théâtre (Josselin)
 - _Funérailles Arlequin_
-  - **Appui lustre jardin repère haut (Luana) + appui lustre cour repère haut (Théo)**
-  - **entrée petit théâtre (Josselin)**
-- _Résurection Arlequin_
   - **Déplacement petit théâtre à cour (Jocelin)**
+  - **Appui des lustres à jardin (Luana) et à cour (Raphael)**
+- _Résurection Arlequin_
   - **Déplacement bancs sur les côtés du palais (Théo, Erwan, Raphael, Gloria)**
 - _Menuet chanté_
-    - **Appui des lustres à cours et à jardin (Luana)**
 - _Final et danse_ 
