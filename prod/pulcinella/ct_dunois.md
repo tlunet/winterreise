@@ -4,13 +4,14 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 
 ## Mise
 
-- Bancs au fond
+- Bancs au fond (sans taps)
 - Palais roulé, accroché et plafonné
 - Lustres chargés repère bas, avec spoon
 - Toile fontaine roulée à jardin
 - Tapis (x7) roulés en coulisse
 - Théâtre de guignol + forêt à l'arrière de l'estrade
 - Grand bateau en coulisse
+- Petit théâtre enroulé dans un taps en coulisse à jardin
 
 ## Prologue + 1er tableau
 
@@ -60,7 +61,8 @@ Changement de tableau par : Luana + Héloise + Emmanuel
 - banc au lointain, debouts sur les côté, couverts par des taps noirs
 - sortie des bateaux à jardin
 - appuie des lustres
-- pose des tapis + forêt 
+- pose des tapis, [voir photo](./tapis.jpg)
+- mise du petit-théâtre au fond dans le coin à jardin 
 
 Commédiens se changent rapidement
 
@@ -70,20 +72,17 @@ Entrée des garçons porte fond jardin (Luana referme après)
 
 - _Danse des garçons_
 - _Discussion garçons_
-    - **Fin scène => déplacement forêt à jardin (par comédiens)**
 - _Discussion filles_
 - _Monologue Arlequin_
     - :warning: ?? Quand pour la fumée, qui ?? Télécommande ??
 - _Serenata (chant Arlequin)_
 - _Dialogue Matamore + Phyllis_
-  - **Déplacement forêt à cour (par comédiens)**
 - _Dialogue Pulcinella + Isabelle (rupture)_
 - _Pas de deux : Florinda + Pulcinella_
 - _Folie d'Arlequin + Tarentelle_
 - _Fin d'Arlequin + musique_
 - _Monologue Colombine_
 - _Chant Isabelle_
-  - **Sortie forêt à cour (Gabriel + Noémie), lentement**
 
 ## Précipité Palais (après la tirade de Matamore)
 
