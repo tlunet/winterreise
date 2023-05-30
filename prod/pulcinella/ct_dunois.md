@@ -99,7 +99,7 @@ Entrée des garçons porte fond jardin (Luana referme après)
   - Charge lustre jardin au repère bas (Gloria, au troisème lé déroulé)
   - Charge lustre cour au repère bas (Théo, au dernier lé déroulé)
 - **Phase 4 :**
-  - Luana récupère les élingues perches
+  - Luana récupère les élingues rouleau + décroche les 3 élingues
 
 ## 4ème tableau
 
@@ -109,6 +109,7 @@ Entrée des garçons porte fond jardin (Luana referme après)
 - _Annonce pendaison Arlequin_
   - **"Ici, sur les marches du palais ducal, ..." => appui palais (Luana à jardin, Théo à cour) + appui lustre face repère (très) haut (Gloria)**
 - _Funérailles Arlequin_
+  - **Appui lustre jardin repère haut (Luana) + appui lustre cour repère haut (Théo)**
   - **entrée petit théâtre (Josselin)**
 - _Résurection Arlequin_
   - **Déplacement petit théâtre à cour (Jocelin)**
