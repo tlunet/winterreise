@@ -75,7 +75,7 @@ _Production au [Théâtre Watteau](https://www.theatreantoinewatteau.fr/), 9 au 
 - Enlever bateau + pince tulle cour + remettre tulle droit
 - Remettre bien frise cyclo
 - Virer bancs
-- Placement tapis (trois grands d'abord, ensuite petits)
+- Placement tapis (trois grands d'abord, ensuite petits, [voir photo](./tapis_watteau.jpg))
 - Placement forêt, check fumée
 
 ## 3ème tableau

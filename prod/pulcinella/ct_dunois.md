@@ -61,7 +61,8 @@ Changement de tableau par : Luana + Héloise + Emmanuel
 - banc au lointain, debouts sur les côté, couverts par des taps noirs
 - sortie des bateaux à jardin
 - appuie des lustres
-- pose des tapis, [voir photo](./tapis.jpg)
+- pose des tapis, [voir photo](./tapis_dunois.jpg)
+- mise lanterne, [voir photo](./lanterne_dunois.jpg)
 - mise du petit-théâtre au fond dans le coin à jardin 
 
 Commédiens se changent rapidement
