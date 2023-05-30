@@ -31,10 +31,10 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 ## Intermède + changement tableau (-> Acte 2)
 
 - **Phase 1 (fin de la danse) :**
-    - **entrée bateaux à jardin** : petit à jar (Noémie), grand à cours, collé au fond (Luana)  
+    - entrée bateaux à jardin : petit à jar (Noémie), grand à cours, collé au fond (Luana)  
 - _Chant Lelio (commencé pendant la phase 1)_
 - **Phase 2 (fin chant) :**
-    - **déplacement banc à l'avant : banc jardin (Raphael+ Gloria), banc cour (Josselin + Théo)*+
+    - déplacement banc à l'avant : banc jardin (Raphael+ Gloria), banc cour (Josselin + Théo)
     - placement toile et déroulé avec la lumière (Marius + Erwan)
     - plafonnement des lustres (Raphael + Théo à cour, Luana à jardin)
 
