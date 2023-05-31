@@ -60,12 +60,11 @@ _Production au [Théâtre Dunois](https://www.theatredunois.org/), 1 au 7 Juin 2
 
 Changement de tableau par : Luana + Héloise + Emmanuel
 
-- banc au lointain, debouts sur les côté, couverts par des taps noirs
+- bancs en galerie (jardin et cour), sous les escalliers
 - sortie des bateaux à jardin
 - appuie des lustres
 - pose des tapis, [voir photo](./tapis_dunois.jpg)
 - mise lanterne, [voir photo](./lanterne_dunois.jpg)
-- mise du petit-théâtre au fond dans le coin à jardin 
 
 Commédiens se changent rapidement
 
@@ -94,14 +93,14 @@ Entrée des garçons porte fond jardin (Luana referme après)
   - Roulage 4 petits tapis (Andrea, Manon, Raphael, Olivia)
 - **Phase 2 :**
   - Roulage gros tapis (Gloria, Théo, Erwan)
-  - Décallage perche palais au centre (Luana + Gabriel)
+  - Décallage des perches palais au centre (Luana + Gabriel)
 - **Phase 3 :**
   - Déroulé palais (Luana + Gabriel)
   - Charge lustre avant au repère bas (Théo, au premier lé déroulé)
   - Charge lustre jardin au repère bas (Gloria, au troisème lé déroulé)
   - Charge lustre cour au repère bas (Théo, au dernier lé déroulé)
 - **Phase 4 :**
-  - Luana récupère les élingues rouleau + **décroche les 3 élingues**
+  - Luana récupère les élingues rouleau
 
 ## 4ème tableau
 
@@ -121,7 +120,7 @@ Entrée des garçons porte fond jardin (Luana referme après)
     - déplacement banc cours au centre (Théo + Raphael)
     - déplacement banc jardin au centre (Erwan + Gloria)
 - _Funérailles Arlequin_
-  - **Déplacement petit théâtre à cour (Jocelin)**
+  - **Déplacement petit théâtre à cour (Josselin)**
   - **Appui des lustres à jardin (Luana) et à cour (Raphael)**
 - _Résurection Arlequin_
   - **Déplacement bancs sur les côtés du palais (Théo, Erwan, Raphael, Gloria)**
